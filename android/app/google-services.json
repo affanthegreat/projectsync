@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374681369210",
+    "project_id": "sync-69da6",
+    "storage_bucket": "sync-69da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374681369210:android:349008763f908a99a059c3",
+        "android_client_info": {
+          "package_name": "com.valno.projectsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374681369210-24lifsfj9lebrbare1rst5cubo5jli3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpJ0hybPiZ89FDeQ47fZT0kUCfyAaIWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374681369210-24lifsfj9lebrbare1rst5cubo5jli3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
